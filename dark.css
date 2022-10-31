@@ -1,0 +1,27 @@
+body{
+  color:White;
+  background-color: black;
+}
+a{
+  color: white;
+    text-decoration: none;
+}
+
+/*change style of hr element*/
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color: white;
+  border-top-width: 8px;
+  width: 5%;
+}
+
+/*make things circular border radius*/
+img {
+  border-radius: 100%;
+}
+
+/*change text color*/
+h1,h3{
+  color:white;
+}
